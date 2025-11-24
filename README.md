@@ -173,12 +173,6 @@ This project showcases your abilities in:
 - DevOps & CI/CD  
 - Documentation  
 
-Perfect for:
-- Salesforce  
-- Amazon  
-- Microsoft  
-- Any product-based company or AI startup  
 
----
 
 
